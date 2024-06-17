@@ -40,11 +40,11 @@ https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="(no group)",DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="(no group)",Disney Channel
-https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/180.ts
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="(no group)",Disney XD
-https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/178.ts
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="(no group)",Disney Jr.
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/179.ts
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-name="DreamWorks" tvg-logo="https://logotyp.us/file/dreamworks.svg" group-title="(no group)",DreamWorks
 https://tinyurl.com/3cfjb6su
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="(no group)",Fashion TV
@@ -71,6 +71,8 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="(no group)",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="HGTVEast.us" tvg-name="HGTV" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="(no group)",HGTV
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/154.ts
 #EXTINF:-1 tvg-id="History.ph" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/180px-History_%282021%29.svg.png" group-title="(no group)",History
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304249.ts
 #EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="(no group)",HITS
@@ -93,6 +95,9 @@ https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304354.ts
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MYX Philippines" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="(no group)",MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="(no group)",Nat Geo
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/141.ts
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="(no group)",Nat Geo Wild
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="(no group)",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="(no group)",Nickelodeon
@@ -109,6 +114,10 @@ https://tinyurl.com/ebkfktmn
 https://bit.ly/4dIklUF
 #EXTINF:-1 tvg-id="OneSportsPlus.ph" tvg-name="One Sports+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="(no group)",One Sports+
 https://tinyurl.com/SPORTplu
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="(no group)",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="(no group)",Paramount
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/221.ts
 #EXTINF:-1 tvg-id="PBARush.ph" tvg-name="PBA RUSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="(no group)",PBA RUSH
 https://tinyurl.com/5n6ny44v
 #EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="(no group)",PBO
@@ -125,20 +134,24 @@ https://tinyurl.com/57v9nn3d
 https://tinyurl.com/5bcc4nrw
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="(no group)",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t0ykF8t.png" group-title="(no group)",Star Movies
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/267542.ts
 #EXTINF:-1 tvg-id="TAPEdge.ph" tvg-name="TAP Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TAP_Edge_logo.png/revision/latest?cb=20210901164231" group-title="(no group)",TAP Edge
 https://tinyurl.com/2ets7a25
 #EXTINF:-1 tvg-id="TAPMovies.ph" tvg-name="TAP Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="(no group)",TAP Movies
 https://tinyurl.com/TAPMovies
 #EXTINF:-1 tvg-id="TAPSports.ph" tvg-name="TAP Sports" tvg-logo="https://www.tapdmv.com/logo-tapSPORTS.png" group-title="(no group)",TAP Sports
 https://tinyurl.com/43nu5x9z
+#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC (Tagalized Movie Channel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Tmc2021logo.png/512px-Tmc2021logo.png" group-title="(no group)",TMC (Tagalized Movie Channel)
+http://heretv.club/live/odk9ZRZNlI/QWMbavCWY0/272913.ts
 #EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-name="TeleRadyo" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="(no group)",TeleRadyo
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="(no group)",Thrill
 https://tinyurl.com/mwaz2855
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="(no group)",TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC (Tagalized Movie Channel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Tmc2021logo.png/512px-Tmc2021logo.png" group-title="(no group)",TMC (Tagalized Movie Channel)
-http://heretv.club/live/odk9ZRZNlI/QWMbavCWY0/272913.ts
+#EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-name="Travel Channel" https://i.imgur.com/RmHGeP1.png" group-title="(no group)",Travel Channel
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1066.ts
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026" group-title="(no group)",TV5
 https://tinyurl.com/TV5HD
 #EXTINF:-1 tvg-id="tvNAsia.hk" tvg-name="tvN" tvg-logo="https://web-cf-image.cjenm.com/public/share/systemmng/site/footermng/logo-tvn.png" group-title="(no group)",tvN
