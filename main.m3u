@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-name="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="(no group)",A2Z
 http://jmrk.xyz:3050/live/mariamatos5@aol.com/NECUwTVLwP/558786.ts
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="(no group)",Adult Swim
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/301841.ts
 #EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="(no group)",ANC
 https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Animal_Planet.svg" group-title="(no group)",Animal Planet
@@ -33,8 +35,8 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/170004.ts
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144858.ts
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="(no group)",Discovery Asia
 https://tinyurl.com/kv6cz4bu
-#EXTINF:-1 tvg-id="DiscoveryScienceSoutheastAsia.sg" tvg-name="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="(no group)",Discovery Science
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="(no group)",Discovery Science
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2301.ts
 #EXTINF:-1 tvg-id="DiscoveryTurbo.au" tvg-name="Discovery Turbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxYRlWBm_1bLgEomRSsMuSXcYhA2bSHzzu2LznT2TaSlu7tXp_ZJ2zvY&s=10" group-title="(no group)",Discovery Turbo
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="(no group)",DMAX
@@ -92,20 +94,23 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/147240.ts
 #EXTINF:-1 tvg-id="Net25.ph" tvg-name="NET 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="(no group)",NET 25
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="(no group)",MTV Live
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304354.ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/9047.ts
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MYX Philippines" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="(no group)",MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="(no group)",Nat Geo
 http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/141.ts
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="(no group)",Nat Geo Wild
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6503.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="(no group)",NBA TV
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/136.ts
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="(no group)",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="(no group)",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/764.ts
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="(no group)",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NickJrEast.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="(no group)",Nick Jr.
-https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/351.ts
 #EXTINF:-1 tvg-id="OneNews.ph" tvg-name="One News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="(no group)",One News
 https://bit.ly/3V39Bce
 #EXTINF:-1 tvg-id="OnePH.ph" tvg-name="One PH" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/6/6e/One_PH_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20221019190308" group-title="(no group)",One PH
@@ -137,19 +142,19 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/t0ykF8t.png" group-title="(no group)",Star Movies
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/267542.ts
 #EXTINF:-1 tvg-id="TAPEdge.ph" tvg-name="TAP Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TAP_Edge_logo.png/revision/latest?cb=20210901164231" group-title="(no group)",TAP Edge
-https://tinyurl.com/2ets7a25
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304251.ts
 #EXTINF:-1 tvg-id="TAPMovies.ph" tvg-name="TAP Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="(no group)",TAP Movies
 https://tinyurl.com/TAPMovies
 #EXTINF:-1 tvg-id="TAPSports.ph" tvg-name="TAP Sports" tvg-logo="https://www.tapdmv.com/logo-tapSPORTS.png" group-title="(no group)",TAP Sports
-https://tinyurl.com/43nu5x9z
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299945.ts
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC (Tagalized Movie Channel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Tmc2021logo.png/512px-Tmc2021logo.png" group-title="(no group)",TMC (Tagalized Movie Channel)
 http://heretv.club/live/odk9ZRZNlI/QWMbavCWY0/272913.ts
 #EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-name="TeleRadyo" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="(no group)",TeleRadyo
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="(no group)",Thrill
-https://tinyurl.com/mwaz2855
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144888.ts
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="(no group)",TLC
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144900.ts
 #EXTINF:-1 tvg-id="TravelChannelEast.us" tvg-name="Travel Channel" https://i.imgur.com/RmHGeP1.png" group-title="(no group)",Travel Channel
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1066.ts
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026" group-title="(no group)",TV5
