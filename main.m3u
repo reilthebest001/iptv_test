@@ -47,8 +47,10 @@ https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-name="DreamWorks" tvg-logo="https://logotyp.us/file/dreamworks.svg" group-title="(no group)",DreamWorks
 https://tinyurl.com/3cfjb6su
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="(no group)",Fashion TV
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304247.ts
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" tvg-name="Food Network" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="(no group)",Food Network
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144857.ts
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH NEWS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/DZRH_TV_Logo_(2021).jpg/revision/latest/scale-to-width-down/300?cb=20210701033828" group-title="(no group)",DZRH NEWS TV
 https://bit.ly/44NaCby
 #EXTINF:-1 tvg-id="GMALifeTV.ph" tvg-name="GMA LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="(no group)",GMA LIFE
@@ -111,6 +113,8 @@ https://tinyurl.com/SPORTplu
 https://tinyurl.com/5n6ny44v
 #EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="(no group)",PBO
 https://bit.ly/44LFPvQ
+#EXTINF:-1 tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="(no group)",PTV
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/193221.ts
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="Retro Crush" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="(no group)",Retro Crush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="Rock Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="(no group)",Rock Action
@@ -149,5 +153,7 @@ https://tinyurl.com/UFCFIGHT01
 https://tinyurl.com/UNTVPH
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva Cinema" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viva-cinema-ph.png" group-title="(no group)",Viva Cinema
 https://tinyurl.com/5a4nf3pf
+#EXTINF:-1 tvg-id="WarnerTV.ph" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="(no group)",Warner TV
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/170006.ts
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="(no group)",WWE Network
 https://tinyurl.com/WWENETW
