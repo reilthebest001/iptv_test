@@ -29,12 +29,12 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://tinyurl.com/yc366xzt
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="(no group)",Cinemax
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304248.ts
-#EXTINF:-1 tvg-id="	CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="(no group)",Crime + Investigation
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="(no group)",Crime + Investigation
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/170004.ts
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="(no group)",Discovery
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144858.ts
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="(no group)",Discovery Asia
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/23301.ts
+#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="(no group)",Discovery Asia
+https://tinyurl.com/kv6cz4bu
 #EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="(no group)",Discovery Science
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2301.ts
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxYRlWBm_1bLgEomRSsMuSXcYhA2bSHzzu2LznT2TaSlu7tXp_ZJ2zvY&s=10" group-title="(no group)",Discovery Turbo
