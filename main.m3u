@@ -16,7 +16,7 @@ https://bit.ly/4bnePoW
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg" group-title="(no group)",Asian Food Network
 https://tinyurl.com/yckyc5uc
 #EXTINF:-1 tvg-id="AXN.sg" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="(no group)",AXN
-https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144831.ts
 #EXTINF:-1 tvg-id="BuKo.ph" tvg-name="BuKo Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="(no group)",BuKo Channel
 https://tinyurl.com/de2trct8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="(no group)",Cartoon Network
@@ -29,6 +29,8 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://tinyurl.com/yc366xzt
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="(no group)",Cinemax
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304248.ts
+#EXTINF:-1 tvg-id="ComedyCentralAsia.us" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="(no group)",Comedy Central
+http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/190.ts
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="(no group)",Crime + Investigation
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/170004.ts
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="(no group)",Discovery
@@ -61,16 +63,16 @@ https://bit.ly/44MSmz6
 https://tinyurl.com/ye233h6u
 #EXTINF:-1 tvg-id="GMAPinoyTV.ph" tvg-name="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="(no group)",GMA PINOY
 https://bit.ly/3yqN4x7
-#EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="(no group)",HBO
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="(no group)",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="(no group)",HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="(no group)",HBO
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2336.ts
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="(no group)",HBO 2
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/5844.ts
+#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="(no group)",HBO Family
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/760.ts
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="(no group)",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="(no group)",HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="(no group)",HBO Signature
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6305.ts
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="(no group)",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="HGTVEast.us" tvg-name="HGTV" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="(no group)",HGTV
@@ -132,7 +134,9 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/193221.ts
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="Retro Crush" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="(no group)",Retro Crush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="Rock Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="(no group)",Rock Action
-http://heretv.club/live/odk9ZRZNlI/QWMbavCWY0/272916.ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304246.ts
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="(no group)",Rock Entertainment
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299970.ts
 #EXTINF:-1 tvg-id="RPTV.ph" tvg-name="RPTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo3wQCT4nOMeP4XDu8Pui3fdsY8UU-TL7qjcQec3TsQ4Sqr7LkDyvIfvzzMDOhtH-vCKuLO2g-w2HBI8DWvehrICFr9zVYxuwAF4_yLYHL1o0CrRyaokWfILQT3qHe37gpIlkHru8S1jWVVSdgoraXd9FrLDjq-qPnbllwDS9-YX4GUfH0mQDIBQhXnuWr/s16000" group-title="(no group)",RPTV
 https://tinyurl.com/57v9nn3d
 #EXTINF:-1 tvg-id="SariSariChannel.ph" tvg-name="SARI-SARI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="(no group)",SARI-SARI
@@ -149,6 +153,8 @@ https://tinyurl.com/TAPMovies
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299945.ts
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="TMC (Tagalized Movie Channel)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Tmc2021logo.png/512px-Tmc2021logo.png" group-title="(no group)",TMC (Tagalized Movie Channel)
 http://heretv.club/live/odk9ZRZNlI/QWMbavCWY0/272913.ts
+#EXTINF:-1 tvg-id="	TechStorm.sg" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="(no group)",TechStorm
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299953.ts
 #EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-name="TeleRadyo" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="(no group)",TeleRadyo
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="(no group)",Thrill
