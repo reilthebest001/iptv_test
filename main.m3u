@@ -63,16 +63,18 @@ https://bit.ly/44MSmz6
 https://tinyurl.com/ye233h6u
 #EXTINF:-1 tvg-id="GMAPinoyTV.ph" tvg-name="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="(no group)",GMA PINOY
 https://bit.ly/3yqN4x7
-#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="(no group)",HBO
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2336.ts
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="(no group)",HBO
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbohd/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="(no group)",HBO 2
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/5844.ts
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="(no group)",HBO Family
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/760.ts
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="(no group)",HBO Family
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbofamily/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="(no group)",HBO Hits
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbohits/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="(no group)",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="(no group)",HBO Signature
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6305.ts
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="(no group)",HBO Signature
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/hbosignature/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="(no group)",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="HGTVEast.us" tvg-name="HGTV" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="(no group)",HGTV
@@ -105,6 +107,8 @@ http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/141.ts
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6503.ts
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="(no group)",NBA TV
 http://streamsy.online:2999/live/Jaley1990/L6KomjzBxv/136.ts
+#EXTINF:-1 tvg-id="NBATVPhilippines.ph" tvg-name="NBA TV Philippines" tvg-logo="https://i.imgur.com/c6TVfij.png" group-title="(no group)",NBA TV Philippines
+http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/nbaphilippines/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="(no group)",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="(no group)",Nickelodeon
