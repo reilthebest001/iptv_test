@@ -8,7 +8,7 @@ https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Animal_Planet.svg" group-title="(no group)",Animal Planet
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144824.ts
 #EXTINF:-1 tvg-id="Animax.ph" tvg-name="Animax" tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="(no group)",Animax
-http://115.146.176.131:80/TimRizal/TimRizal/59.m3u8
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144838.ts
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg" group-title="(no group)",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-name="Asian Crush" tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="(no group)",Asian Crush
@@ -54,7 +54,7 @@ http://starshare.live:8080/live/127718262420/127744325447/150994.m3u8
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="(no group)",Fashion TV
 http://115.146.176.131:80/TimRizal/TimRizal/42.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" tvg-name="Food Network" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="(no group)",Food Network
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/5008.ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144857.ts
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH NEWS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/DZRH_TV_Logo_(2021).jpg/revision/latest/scale-to-width-down/300?cb=20210701033828" group-title="(no group)",DZRH NEWS TV
 http://115.146.176.131:80/TimRizal/TimRizal/23.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMATV" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="(no group)",GMA
