@@ -20,7 +20,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/49.m3u8
 #EXTINF:-1 tvg-id="BuKo.ph" tvg-name="BuKo Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="(no group)",BuKo Channel
 http://starshare.live:8080/live/127718262420/127744325447/151004.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="(no group)",Cartoon Network
-http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567698.m3u8
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144835.ts
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="Channel News Asia" tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Channel-News-Asia-900x0.png" group-title="(no group)",Channel News Asia
 http://115.146.176.131:80/TimRizal/TimRizal/5.m3u8
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="(no group)",Cinema One
