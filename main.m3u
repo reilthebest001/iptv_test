@@ -140,7 +140,7 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/193221.ts
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="Retro Crush" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="(no group)",Retro Crush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-name="Rock Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="(no group)",Rock Action
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304246.ts
+http://115.146.176.131:80/TimRizal/TimRizal/84.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="(no group)",Rock Entertainment
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299970.ts
 #EXTINF:-1 tvg-id="RPTV.ph" tvg-name="RPTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo3wQCT4nOMeP4XDu8Pui3fdsY8UU-TL7qjcQec3TsQ4Sqr7LkDyvIfvzzMDOhtH-vCKuLO2g-w2HBI8DWvehrICFr9zVYxuwAF4_yLYHL1o0CrRyaokWfILQT3qHe37gpIlkHru8S1jWVVSdgoraXd9FrLDjq-qPnbllwDS9-YX4GUfH0mQDIBQhXnuWr/s16000" group-title="(no group)",RPTV
@@ -174,13 +174,13 @@ https://tinyurl.com/TV5HD
 #EXTINF:-1 tvg-id="tvNAsia.hk" tvg-name="tvN" tvg-logo="https://web-cf-image.cjenm.com/public/share/systemmng/site/footermng/logo-tvn.png" group-title="(no group)",tvN
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144886.ts
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-name="TvN Movies Tagalog" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="(no group)",TvN Movies Tagalog
-https://tinyurl.com/tvNMovies
+http://starshare.live:8080/live/127718262420/127744325447/151038.m3u8
 #EXTINF:-1 tvg-id="UAAPVarsityChannel.ph" tvg-name="UAAP Varsity" tvg-logo="https://filipinolive.com/wp-content/uploads/2021/09/UAAP-NwFIGB-696x330.jpeg" group-title="(no group)",UAAP Varsity
 https://tinyurl.com/4pnvw92b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS" tvg-logo="https://logodix.com/logo/1939324.png" group-title="(no group)",UFC FIGHT PASS
 https://tinyurl.com/UFCFIGHT01
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/UNTV-Public-Service-logo.png" group-title="(no group)",UNTV
-https://tinyurl.com/UNTVPH
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva Cinema" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viva-cinema-ph.png" group-title="(no group)",Viva Cinema
 https://tinyurl.com/5a4nf3pf
 #EXTINF:-1 tvg-id="WarnerTV.ph" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="(no group)",Warner TV
